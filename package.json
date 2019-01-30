@@ -12,7 +12,7 @@
     "test": "test",
     "eslint": "eslint .",
     "init": "eslint --init",
-    "fix": "eslint --fix ."
+    "fix": "eslint --fix"
   },
   "pre-commit": [
     "eslint",
